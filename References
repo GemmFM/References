@@ -1,0 +1,271 @@
+@article{Tsai_2020,
+	doi = {10.1038/s41598-020-71909-8},
+	url = {https://doi.org/10.1038%2Fs41598-020-71909-8},
+	year = 2020,
+	month = {sep},
+	publisher = {Springer Science and Business Media {LLC}},
+	volume = {10},
+	number = {1},
+	author = {Cheng-Hsuan Tsai and Hsi-Pin Ma and Yen-Tin Lin and Chi-Sheng Hung and Shan-Hsuan Huang and Bei-Lin Chuang and Chen Lin and Men-Tzung Lo and Chung-Kang Peng and Yen-Hung Lin},
+	title = {Usefulness of heart rhythm complexity in heart failure detection and diagnosis},
+	journal = {Scientific Reports}
+}
+@article{Sajadieh_2004,
+	doi = {10.1016/j.ehj.2003.12.003},
+	url = {https://doi.org/10.1016%2Fj.ehj.2003.12.003},
+	year = 2004,
+	month = {mar},
+	publisher = {Oxford University Press ({OUP})},
+	volume = {25},
+	number = {5},
+	pages = {363--370},
+	author = {A Sajadieh},
+	title = {Increased heart rate and reduced heart-rate variability are associated with subclinical inflammation in middle-aged and elderly subjects with no apparent heart disease},
+	journal = {European Heart Journal}
+}
+@article{Parati_2006,
+	doi = {10.1152/japplphysiol.00446.2006},
+	url = {https://doi.org/10.1152%2Fjapplphysiol.00446.2006},
+	year = 2006,
+	month = {aug},
+	publisher = {American Physiological Society},
+	volume = {101},
+	number = {2},
+	pages = {676--682},
+	author = {Gianfranco Parati and Giuseppe Mancia and Marco Di Rienzo and Paolo Castiglioni},
+	title = {Point:Counterpoint: Cardiovascular variability is/is not an index of autonomic control of circulation},
+	journal = {Journal of Applied Physiology}
+}@article{Ponikowski_1997,
+	doi = {10.1016/s0002-9149(97)00215-4},
+	url = {https://doi.org/10.1016%2Fs0002-9149%2897%2900215-4},
+	year = 1997,
+	month = {jun},
+	publisher = {Elsevier {BV}},
+	volume = {79},
+	number = {12},
+	pages = {1645--1650},
+	author = {Piotr Ponikowski and Stefan D Anker and Tuan Peng Chua and Roman Szelemej and Massimo Piepoli and Stamatis Adamopoulos and Katharine Webb-Peploe and Derek Harrington and Waldemar Banasiak and Krzysztof Wrabec and Andrew J.S Coats},
+	title = {Depressed Heart Rate Variability as an Independent Predictor of Death in Chronic Congestive Heart Failure Secondary to Ischemic or Idiopathic Dilated Cardiomyopathy},
+	journal = {The American Journal of Cardiology}
+}
+
+@article{Marik_2009,
+	doi = {10.1097/ccm.0b013e3181a590da},
+	year = 2009,
+	month = {sep},
+	publisher = {Ovid Technologies (Wolters Kluwer Health)},
+	volume = {37},
+	number = {9},
+	pages = {2642--2647},
+	author = {Paul E. Marik and Rodrigo Cavallazzi and Tajender Vasu and Amyn Hirani},
+	title = {Dynamic changes in arterial waveform derived variables and fluid responsiveness in mechanically ventilated patients: A systematic review of the literature},
+	journal = {Critical Care Medicine}
+}
+
+@article{AnikkenHolme_2016,
+  author={Anikken Holme, Nathalie Linn and Rein, Erling Bekkestad and Elstad, Maja},
+  title={Cardiac stroke volume variability measured non‐invasively by three methods for detection of central hypovolemia in healthy humans},
+  journal={European Journal of Applied Physiology},
+  volume={116},
+  number={12},
+  pages={2187--2196},
+  year={2016},
+  publisher={Springer Berlin Heidelberg},
+  doi={10.1007/s00421-016-3471-2}
+}
+
+@article{Liu_2004,
+  title={Comparison of heart rate variability and stroke volume variability},
+  author={Liu, Hongjian and Yambe, Tomoyuki and Sasada, Hiroshi and Nanka, Shunsuke and Tanaka, Akira and Nagatomi, Ryoichi and Nitta, Shin-ichi},
+  journal={Autonomic Neuroscience: Basic and Clinical},
+  volume={116},
+  number={1-2},
+  pages={69--75},
+  year={2004},
+  publisher={Elsevier},
+  doi={10.1016/j.autneu.2004.09.003}
+}
+@article{Ruiz_Esparza_2016,
+	doi = {10.1002/ejhf.463},
+	url = {https://doi.org/10.1002%2Fejhf.463},
+	year = 2016,
+	month = {jan},
+	publisher = {Wiley},
+	volume = {18},
+	number = {2},
+	pages = {169--178},
+	author = {Guillermo U. Ruiz-Esparza and Victor Segura-Ibarra and Andrea M. Cordero-Reyes and Keith A. Youker and Rita E. Serda and Ana S. Cruz-Solbes and Javier Amione-Guerra and Kenji Yokoi and Dickson K. Kirui and Francisca E. Cara and Jesus Paez-Mayorga and Jose H. Flores-Arredondo and Carlos E. Guerrero-Beltr{\'{a}}n and Gerardo Garcia-Rivas and Mauro Ferrari and Elvin Blanco and Guillermo Torre-Amione},
+	title = {A specifically designed nanoconstruct associates, internalizes, traffics in cardiovascular cells, and accumulates in failing myocardium: a new strategy for heart failure diagnostics and therapeutics},
+	journal = {European Journal of Heart Failure}
+}
+@article{Pacher_2008,
+	doi = {10.1038/nprot.2008.138},
+	url = {https://doi.org/10.1038%2Fnprot.2008.138},
+	year = 2008,
+	month = {aug},
+	publisher = {Springer Science and Business Media {LLC}},
+	volume = {3},
+	number = {9},
+	pages = {1422--1434},
+	author = {P{\'{a}}l Pacher and Takahiro Nagayama and Partha Mukhopadhyay and S{\'{a}}ndor B{\'{a}}tkai and David A Kass},
+	title = {Measurement of cardiac function using pressure{\textendash}volume conductance catheter technique in mice and rats},
+	journal = {Nature Protocols}
+}
+
+
+@article{Marwan_2002,
+	doi = {10.1103/physreve.66.026702},
+	url = {https://doi.org/10.1103%2Fphysreve.66.026702},
+	year = 2002,
+	month = {aug},
+	publisher = {American Physical Society ({APS})},
+	volume = {66},
+	number = {2},
+	author = {Norbert Marwan and Niels Wessel and Udo Meyerfeldt and Alexander Schirdewan and Jürgen Kurths},
+	title = {Recurrence-plot-based measures of complexity and their application to heart-rate-variability data},
+	journal = {Physical Review E}
+}
+
+@article{Aubert_2003,
+	doi = {10.2165/00007256-200333120-00003},
+	url = {https://doi.org/10.2165%2F00007256-200333120-00003},
+	year = 2003,
+	publisher = {Springer Science and Business Media {LLC}},
+	volume = {33},
+	number = {12},
+	pages = {889--919},
+	author = {A E Aubert and Bert Seps and Frank Beckers},
+	title = {Heart Rate Variability in Athletes},
+	journal = {Sports Medicine}
+}
+@incollection{Hoshi_2016,
+	doi = {10.1007/978-3-319-29922-8_8},
+	url = {https://doi.org/10.1007%2F978-3-319-29922-8_8},
+	year = 2016,
+	publisher = {Springer International Publishing},
+	pages = {157--168},
+	author = {Rosangela Akemi Hoshi and Carlos Marcelo Pastre and Luiz Carlos Marques Vanderlei and Moacir Fernandes Godoy},
+	title = {Assessment of Heart Rate Complexity Recovery from Maximal Exercise Using Recurrence Quantification Analysis},
+	booktitle = {Springer Proceedings in Physics}
+}
+
+@article{Voss_2008,
+	doi = {10.1098/rsta.2008.0232},
+	url = {https://doi.org/10.1098%2Frsta.2008.0232},
+	year = 2008,
+	month = {oct},
+	publisher = {The Royal Society},
+	volume = {367},
+	number = {1887},
+	pages = {277--296},
+	author = {Andreas Voss and Steffen Schulz and Rico Schroeder and Mathias Baumert and Pere Caminal},
+	title = {Methods derived from nonlinear dynamics for analysing heart rate variability},
+	journal = {Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences}
+}
+
+@article{Zimatore_2022,
+	doi = {10.3390/ijerph191912719},
+	url = {https://doi.org/10.3390%2Fijerph191912719},
+	year = 2022,
+	month = {oct},
+	publisher = {{MDPI} {AG}},
+	volume = {19},
+	number = {19},
+	pages = {12719},
+	author = {Giovanna Zimatore and Maria Chiara Gallotta and Matteo Campanella and Piotr H. Skarzynski and Giuseppe Maulucci and Cassandra Serantoni and Marco De Spirito and Davide Curzi and Laura Guidetti and Carlo Baldari and Stavros Hatzopoulos},
+	title = {Detecting Metabolic Thresholds from Nonlinear Analysis of Heart Rate Time Series: A Review},
+	journal = {International Journal of Environmental Research and Public Health}
+}
+
+@incollection{Kiyono_2016,
+	doi = {10.1007/978-4-431-56012-8_9},
+	url = {https://doi.org/10.1007%2F978-4-431-56012-8_9},
+	year = 2016,
+	month = {sep},
+	publisher = {Springer Japan},
+	pages = {147--161},
+	author = {Ken Kiyono and Junichiro Hayano and Eiichi Watanabe and Yoshiharu Yamamoto},
+	title = {Heart Rate Variability ({HRV}) and Sympathetic Nerve Activity},
+	booktitle = {Clinical Assessment of the Autonomic Nervous System}
+}
+
+@article{Kamen_1995,
+	doi = {10.1111/j.1445-5994.1995.tb00573.x},
+	url = {https://doi.org/10.1111%2Fj.1445-5994.1995.tb00573.x},
+	year = 1995,
+	month = {feb},
+	publisher = {Wiley},
+	volume = {25},
+	number = {1},
+	pages = {18--26},
+	author = {P. W. Kamen and A. M. Tonkin},
+	title = {Application of the Poincar{\'{e}} plot to heart rate variability: a new measure of functional status in heart failure},
+	journal = {Australian and New Zealand Journal of Medicine}
+}
+
+@article{Zeki_Al_Hazzouri_2014,
+	doi = {10.1161/hypertensionaha.113.01888},
+	url = {https://doi.org/10.1161%2Fhypertensionaha.113.01888},
+	year = 2014,
+	month = {jan},
+	publisher = {Ovid Technologies (Wolters Kluwer Health)},
+	volume = {63},
+	number = {1},
+	pages = {181--187},
+	author = {Adina Zeki Al Hazzouri and Mary N. Haan and Yingzi Deng and John Neuhaus and Kristine Yaffe},
+	title = {Reduced Heart Rate Variability Is Associated With Worse Cognitive Performance in Elderly Mexican Americans},
+	journal = {Hypertension}
+}
+
+@article{Escorihuela_2020,
+	doi = {10.1186/s12967-019-02184-z},
+	url = {https://doi.org/10.1186%2Fs12967-019-02184-z},
+	year = 2020,
+	month = {jan},
+	publisher = {Springer Science and Business Media {LLC}},
+	volume = {18},
+	number = {1},
+	author = {Rosa Mar{\'{\i}}a Escorihuela and Llu{\'{\i}}s Capdevila and Juan Ramos Castro and Mar{\'{\i}}a Cleof{\'{e}} Zaragoz{\`{a}} and Sara Maurel and Jos{\'{e}} Alegre and Jes{\'{u}}s Castro-Marrero},
+	title = {Reduced heart rate variability predicts fatigue severity in individuals with chronic fatigue syndrome/myalgic encephalomyelitis},
+	journal = {Journal of Translational Medicine}
+}
+
+@article{Jacob_1992,
+	doi = {10.1093/eurheartj/13.suppl_e.7},
+	url = {https://doi.org/10.1093%2Feurheartj%2F13.suppl_e.7},
+	year = 1992,
+	month = {nov},
+	publisher = {Oxford University Press ({OUP})},
+	volume = {13},
+	number = {suppl E},
+	pages = {7--14},
+	author = {R. Jacob and B. Dierberger and G. Kissling},
+	title = {Functional significance of the Frank-Starling mechanism under physiological and pathophysiological conditions},
+	journal = {European Heart Journal}
+}
+
+@article{Zhang_2011,
+	doi = {10.1007/s00540-011-1217-1},
+	year = 2011,
+	month = {sep},
+	publisher = {Springer Science and Business Media {LLC}},
+	volume = {25},
+	number = {6},
+	pages = {904--916},
+	author = {Zhongheng Zhang and Baolong Lu and Xiaoyan Sheng and Ni Jin},
+	title = {Accuracy of stroke volume variation in predicting fluid responsiveness: a systematic review and meta-analysis},
+	journal = {Journal of Anesthesia}
+
+@article{Holubarsch_1996,
+	doi = {10.1161/01.cir.94.4.683},
+	url = {https://doi.org/10.1161%2F01.cir.94.4.683},
+	year = 1996,
+	month = {aug},
+	publisher = {Ovid Technologies (Wolters Kluwer Health)},
+	volume = {94},
+	number = {4},
+	pages = {683--689},
+	author = {Christian Holubarsch and Thorsten Ruf and Daniel J. Goldstein and Robert C. Ashton and Werner Nickl and Burkert Pieske and Katja Pioch and Jens Lu{\textasciidieresis}demann and Sandra Wiesner and Gerd Hasenfuss and Herbert Posival and Hanjo{\textasciidieresis}rg Just and Daniel Burkhoff},
+	title = {Existence of the Frank-Starling Mechanism in the Failing Human Heart},
+	journal = {Circulation}
+}
